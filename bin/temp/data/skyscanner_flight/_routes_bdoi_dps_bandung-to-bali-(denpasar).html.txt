@@ -1,0 +1,3 @@
+arrival:Bali (Denpasar)
+price:$73
+departure:Bandung to 

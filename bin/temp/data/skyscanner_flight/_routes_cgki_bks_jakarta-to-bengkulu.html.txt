@@ -1,0 +1,3 @@
+arrival:Bengkulu
+price:$79
+departure:Jakarta to 

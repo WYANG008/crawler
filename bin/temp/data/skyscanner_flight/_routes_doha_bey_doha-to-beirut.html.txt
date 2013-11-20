@@ -1,0 +1,3 @@
+arrival:Beirut
+price:$345
+departure:Doha to 

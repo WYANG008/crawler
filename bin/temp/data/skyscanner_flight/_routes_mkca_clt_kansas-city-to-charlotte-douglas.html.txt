@@ -1,0 +1,3 @@
+arrival:Charlotte
+price:$330
+departure:Kansas City to 

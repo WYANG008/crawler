@@ -1,0 +1,3 @@
+arrival:Copenhagen
+price:$263
+departure:Munich to 

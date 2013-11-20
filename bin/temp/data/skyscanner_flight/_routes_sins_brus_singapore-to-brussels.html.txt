@@ -1,0 +1,3 @@
+arrival:Brussels
+price:$1,085
+departure:Singapore to 

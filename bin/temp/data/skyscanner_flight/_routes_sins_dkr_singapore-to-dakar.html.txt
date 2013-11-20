@@ -1,0 +1,3 @@
+arrival:Dakar
+price:$1,829
+departure:Singapore to 

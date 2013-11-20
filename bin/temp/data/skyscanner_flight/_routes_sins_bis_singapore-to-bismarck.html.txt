@@ -1,0 +1,3 @@
+arrival:Bismarck
+price:$2,078
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Damascus
+price:$1,879
+departure:Singapore to 

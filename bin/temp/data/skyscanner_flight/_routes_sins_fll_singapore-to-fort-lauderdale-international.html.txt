@@ -1,0 +1,3 @@
+arrival:Fort Lauderdale
+price:$1,769
+departure:Singapore to 

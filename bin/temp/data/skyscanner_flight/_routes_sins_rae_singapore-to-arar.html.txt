@@ -1,0 +1,2 @@
+arrival:Arar
+departure:Singapore to 

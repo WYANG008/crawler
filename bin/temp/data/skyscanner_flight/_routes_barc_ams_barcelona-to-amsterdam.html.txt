@@ -1,0 +1,3 @@
+arrival:Amsterdam
+price:$152
+departure:Barcelona to 

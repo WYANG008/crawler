@@ -1,0 +1,2 @@
+arrival:Armidale
+departure:Singapore to 

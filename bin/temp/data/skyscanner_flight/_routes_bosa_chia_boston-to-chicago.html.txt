@@ -1,0 +1,3 @@
+arrival:Chicago
+price:$216
+departure:Boston to 

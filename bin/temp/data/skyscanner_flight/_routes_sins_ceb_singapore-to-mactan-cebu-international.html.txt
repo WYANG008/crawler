@@ -1,0 +1,3 @@
+arrival:Cebu
+price:$201
+departure:Singapore to 

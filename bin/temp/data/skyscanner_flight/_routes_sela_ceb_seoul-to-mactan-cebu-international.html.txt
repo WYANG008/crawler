@@ -1,0 +1,3 @@
+arrival:Cebu
+price:$356
+departure:Seoul to 

@@ -1,0 +1,3 @@
+arrival:Astana
+price:$1,373
+departure:Singapore to 

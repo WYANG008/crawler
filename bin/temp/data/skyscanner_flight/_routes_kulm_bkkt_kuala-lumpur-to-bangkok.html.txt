@@ -1,0 +1,3 @@
+arrival:Bangkok
+price:$87
+departure:Kuala Lumpur to 

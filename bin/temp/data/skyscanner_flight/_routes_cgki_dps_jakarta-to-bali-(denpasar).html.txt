@@ -1,0 +1,3 @@
+arrival:Bali (Denpasar)
+price:$72
+departure:Jakarta to 

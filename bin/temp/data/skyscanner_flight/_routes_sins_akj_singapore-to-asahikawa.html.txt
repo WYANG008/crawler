@@ -1,0 +1,3 @@
+arrival:Asahikawa
+price:$1,076
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Cebu
+price:$31
+departure:Manila to 

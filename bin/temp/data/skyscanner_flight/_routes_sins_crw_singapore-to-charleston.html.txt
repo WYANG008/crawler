@@ -1,0 +1,2 @@
+arrival:Charleston
+departure:Singapore to 

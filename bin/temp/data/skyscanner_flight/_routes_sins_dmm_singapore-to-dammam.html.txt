@@ -1,0 +1,3 @@
+arrival:Dammam
+price:$750
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Casablanca
+price:$1,057
+departure:Singapore to 

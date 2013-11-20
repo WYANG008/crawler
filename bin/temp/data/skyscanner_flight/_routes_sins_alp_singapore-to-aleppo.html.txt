@@ -1,0 +1,2 @@
+arrival:Aleppo
+departure:Singapore to 

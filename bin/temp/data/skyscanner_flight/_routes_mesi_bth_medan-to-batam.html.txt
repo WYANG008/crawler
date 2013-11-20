@@ -1,0 +1,3 @@
+arrival:Batam
+price:$76
+departure:Medan to 

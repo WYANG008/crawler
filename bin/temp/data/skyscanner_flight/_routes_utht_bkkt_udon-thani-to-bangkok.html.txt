@@ -1,0 +1,3 @@
+arrival:Bangkok
+price:$49
+departure:Udon Thani to 

@@ -1,0 +1,3 @@
+arrival:Columbus
+price:$1,699
+departure:Singapore to 

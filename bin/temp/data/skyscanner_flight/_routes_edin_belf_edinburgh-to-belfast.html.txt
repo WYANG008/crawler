@@ -1,0 +1,3 @@
+arrival:Belfast
+price:$122
+departure:Edinburgh to 

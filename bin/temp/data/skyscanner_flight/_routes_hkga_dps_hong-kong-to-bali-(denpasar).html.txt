@@ -1,0 +1,3 @@
+arrival:Bali (Denpasar)
+price:$282
+departure:Hong Kong to 

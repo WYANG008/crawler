@@ -1,0 +1,2 @@
+arrival:Ekaterinburg
+departure:Singapore to 

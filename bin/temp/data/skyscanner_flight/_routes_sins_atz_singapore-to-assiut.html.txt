@@ -1,0 +1,2 @@
+arrival:Assiut
+departure:Singapore to 

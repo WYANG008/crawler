@@ -1,0 +1,3 @@
+arrival:Chongqing
+price:$441
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Berlin
+price:$120
+departure:Copenhagen to 

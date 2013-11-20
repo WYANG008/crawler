@@ -1,0 +1,3 @@
+arrival:Banda Aceh
+price:$82
+departure:Medan to 

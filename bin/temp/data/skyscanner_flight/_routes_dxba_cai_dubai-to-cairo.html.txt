@@ -1,0 +1,3 @@
+arrival:Cairo
+price:$329
+departure:Dubai to 

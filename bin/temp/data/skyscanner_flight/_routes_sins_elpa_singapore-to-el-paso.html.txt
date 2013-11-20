@@ -1,0 +1,3 @@
+arrival:El Paso
+price:$2,554
+departure:Singapore to 

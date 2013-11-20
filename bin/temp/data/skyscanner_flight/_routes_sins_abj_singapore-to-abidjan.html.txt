@@ -1,0 +1,3 @@
+arrival:Abidjan
+price:$1,754
+departure:Singapore to 

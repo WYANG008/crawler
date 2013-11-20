@@ -1,0 +1,3 @@
+arrival:Belitung (Tanjung Pandan)
+price:$706
+departure:Singapore to 

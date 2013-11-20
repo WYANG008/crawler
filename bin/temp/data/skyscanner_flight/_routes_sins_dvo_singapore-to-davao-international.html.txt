@@ -1,0 +1,3 @@
+arrival:Davao
+price:$295
+departure:Singapore to 

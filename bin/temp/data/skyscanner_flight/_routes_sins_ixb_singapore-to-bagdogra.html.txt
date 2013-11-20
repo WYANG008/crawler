@@ -1,0 +1,3 @@
+arrival:Bagdogra
+price:$648
+departure:Singapore to 

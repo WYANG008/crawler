@@ -1,0 +1,3 @@
+arrival:Banjarmasin
+price:$239
+departure:Singapore to 

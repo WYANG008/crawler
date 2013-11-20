@@ -1,0 +1,3 @@
+arrival:Amsterdam
+price:$158
+departure:Copenhagen to 

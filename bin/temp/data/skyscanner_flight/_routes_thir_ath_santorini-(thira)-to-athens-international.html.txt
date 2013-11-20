@@ -1,0 +1,3 @@
+arrival:Athens
+price:$126
+departure:Santorini (Thira) to 

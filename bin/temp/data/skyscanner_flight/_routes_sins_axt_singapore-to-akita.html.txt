@@ -1,0 +1,3 @@
+arrival:Akita
+price:$900
+departure:Singapore to 

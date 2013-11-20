@@ -1,0 +1,3 @@
+arrival:Cagayan De Oro
+price:$352
+departure:Singapore to 

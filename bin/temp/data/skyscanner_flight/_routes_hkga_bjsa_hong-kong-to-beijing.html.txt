@@ -1,0 +1,3 @@
+arrival:Beijing
+price:$287
+departure:Hong Kong to 

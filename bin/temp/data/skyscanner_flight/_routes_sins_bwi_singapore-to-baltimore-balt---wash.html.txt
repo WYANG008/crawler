@@ -1,0 +1,3 @@
+arrival:Baltimore
+price:$1,743
+departure:Singapore to 

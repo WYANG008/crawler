@@ -1,0 +1,3 @@
+arrival:Columbia
+price:$1,816
+departure:Singapore to 

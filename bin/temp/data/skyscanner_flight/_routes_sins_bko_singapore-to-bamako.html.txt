@@ -1,0 +1,3 @@
+arrival:Bamako
+price:$2,103
+departure:Singapore to 

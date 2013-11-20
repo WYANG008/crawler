@@ -1,0 +1,11 @@
+{
+    "websites" : [
+        {
+            "name" : "sky scanner",
+            "baseurl" : "http://www.skyscanner.net",
+            "start_url" : "http://www.skyscanner.net/flights-to/cheap-flights-to-cities-all.html?letter=a",
+            "start_model" : "skyscanner_citylist",
+            "config" : "./skyscanner.json" 
+        }   
+    ]
+}

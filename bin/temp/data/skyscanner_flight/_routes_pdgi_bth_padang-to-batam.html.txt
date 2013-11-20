@@ -1,0 +1,3 @@
+arrival:Batam
+price:$55
+departure:Padang to 

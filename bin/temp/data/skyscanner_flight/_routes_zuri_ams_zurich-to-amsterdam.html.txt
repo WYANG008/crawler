@@ -1,0 +1,3 @@
+arrival:Amsterdam
+price:$243
+departure:Zurich to 

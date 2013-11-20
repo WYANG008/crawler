@@ -1,0 +1,3 @@
+arrival:Bogota
+price:$595
+departure:New York to 

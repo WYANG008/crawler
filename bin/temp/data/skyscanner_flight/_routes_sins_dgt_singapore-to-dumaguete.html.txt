@@ -1,0 +1,3 @@
+arrival:Dumaguete
+price:$348
+departure:Singapore to 

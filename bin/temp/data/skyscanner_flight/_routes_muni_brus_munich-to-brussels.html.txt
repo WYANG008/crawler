@@ -1,0 +1,3 @@
+arrival:Brussels
+price:$242
+departure:Munich to 

@@ -1,0 +1,3 @@
+arrival:Bordeaux
+price:$1,052
+departure:Singapore to 

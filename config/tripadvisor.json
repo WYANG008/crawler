@@ -1,0 +1,117 @@
+{
+    "webpages" : [
+        {
+            "model" : "trip_mainpage",
+            "baseurl" : "http://www.tripadvisor.com.sg",
+            "links" : [
+                {
+                    "selector" : "div#ACCOM_OVERVIEW div#pager_bottom a[class~=paging]",
+                    "model" : "trip_mainpage"
+                },
+                {
+                    "selector" : "div#ACCOM_OVERVIEW div.metaLocationInfo div[class~=quality] a",
+                    "model" : "trip_review"
+                }
+            ],
+            "entity_selector" : "div#ACCOM_OVERVIEW div.metaLocationInfo",
+            "attributes" : [
+                {
+                    "name" : "hotel", 
+                    "type" : "str",
+                    "selector" : "div[class~=quality] a",
+                    "attr" : "text",
+                    "pk" : true
+                },
+                {
+                    "name" : "rate", 
+                    "type" : "float",
+                    "selector" : "img.sprite-ratings",
+                    "attr" : "content",
+                    "pk" : false
+                }
+            ]
+        }, 
+        {
+            "model" : "trip_review",
+            "baseurl" : "http://www.tripadvisor.com.sg",
+            "links" : [
+                {
+                    "selector" : "div[class=pgLinks] a",
+                    "model" : "trip_review"
+                }
+            ],
+            "entity_selector" : "div#REVIEWS div[id^=review_]",
+            "attributes" : [
+                {
+                    "name" : "id", 
+                    "type" : "str",
+                    "selector" : "div.quote a",
+                    "attr" : "id",
+                    "pk" : true
+                },
+                {
+                    "name" : "title", 
+                    "type" : "str",
+                    "selector" : "div.quote a",
+                    "attr" : "text",
+                    "pk" : false 
+                },
+                {
+                    "name" : "rate", 
+                    "type" : "float",
+                    "selector" : "img.sprite-ratings",
+                    "attr" : "content",
+                    "pk" : false 
+                },
+                {
+                    "name" : "content", 
+                    "type" : "str",
+                    "selector" : "p.partial_entry",
+                    "attr" : "text",
+                    "pk" : false 
+                }
+            ]
+        },    
+        {
+            "model" : "trip_review_detail",
+            "baseurl" : "http://www.tripadvisor.com.sg",
+            "links" : [
+                {
+                    "selector" : "div[class=pgLinks] a",
+                    "model" : "trip_review_detail"
+                }
+            ],
+            "entity_selector" : "div#REVIEWS div[id^=review_][class=reviewSelector]",
+            "attributes" : [
+                {
+                    "name" : "id", 
+                    "type" : "str",
+                    "selector" : "a[name*=UR]",
+                    "attr" : "name",
+                    "pk" : true
+                },
+                {
+                    "name" : "title", 
+                    "type" : "str",
+                    "selector" : "div.quote",
+                    "attr" : "text",
+                    "pk" : false 
+                },
+                {
+                    "name" : "rate", 
+                    "type" : "float",
+                    "selector" : "img.sprite-ratings",
+                    "attr" : "content",
+                    "pk" : false 
+                },
+                {
+                    "name" : "content", 
+                    "type" : "str",
+                    "selector" : "div.col2of2 div.entry p",
+                    "attr" : "text",
+                    "pk" : false 
+                }
+            ]
+        }
+    ]
+}

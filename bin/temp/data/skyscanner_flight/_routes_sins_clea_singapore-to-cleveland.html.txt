@@ -1,0 +1,3 @@
+arrival:Cleveland
+price:$2,316
+departure:Singapore to 

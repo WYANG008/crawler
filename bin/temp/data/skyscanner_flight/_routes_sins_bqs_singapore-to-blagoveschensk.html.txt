@@ -1,0 +1,3 @@
+arrival:Blagoveschensk
+price:$3,124
+departure:Singapore to 

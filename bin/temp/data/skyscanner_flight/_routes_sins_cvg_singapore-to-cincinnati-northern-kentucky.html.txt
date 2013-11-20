@@ -1,0 +1,3 @@
+arrival:Cincinnati
+price:$1,694
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Dnepropetrovsk
+price:$1,519
+departure:Singapore to 

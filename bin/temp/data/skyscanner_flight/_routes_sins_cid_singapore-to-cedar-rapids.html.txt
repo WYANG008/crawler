@@ -1,0 +1,3 @@
+arrival:Cedar Rapids
+price:$2,505
+departure:Singapore to 

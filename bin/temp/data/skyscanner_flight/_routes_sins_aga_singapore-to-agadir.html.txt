@@ -1,0 +1,3 @@
+arrival:Agadir
+price:$1,683
+departure:Singapore to 

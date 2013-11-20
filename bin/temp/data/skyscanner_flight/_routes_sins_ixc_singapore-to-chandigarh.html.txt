@@ -1,0 +1,3 @@
+arrival:Chandigarh
+price:$550
+departure:Singapore to 

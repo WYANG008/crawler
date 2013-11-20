@@ -1,0 +1,3 @@
+arrival:Chicago
+price:$325
+departure:Tampa to 

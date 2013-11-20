@@ -1,0 +1,11 @@
+{
+    "websites" : [
+        {
+            "name" : "trip advisor",
+            "baseurl" : "http://www.tripadvisor.com.sg",
+            "start_url" : "http://www.tripadvisor.com.sg/Hotels-g294265-Singapore-Hotels.html",
+            "start_model" : "trip_mainpage",
+            "config" : "./tripadvisor.json" 
+        }   
+    ]
+}

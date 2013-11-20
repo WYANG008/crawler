@@ -1,0 +1,3 @@
+arrival:Fairbanks
+price:$1,913
+departure:Singapore to 

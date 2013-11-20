@@ -1,0 +1,3 @@
+arrival:Charlotte
+price:$223
+departure:New York to 

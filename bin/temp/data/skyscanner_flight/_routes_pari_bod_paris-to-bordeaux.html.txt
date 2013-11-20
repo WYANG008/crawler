@@ -1,0 +1,3 @@
+arrival:Bordeaux
+price:$84
+departure:Paris to 

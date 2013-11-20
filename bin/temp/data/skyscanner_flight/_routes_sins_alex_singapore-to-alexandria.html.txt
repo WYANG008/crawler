@@ -1,0 +1,3 @@
+arrival:Alexandria
+price:$945
+departure:Singapore to 

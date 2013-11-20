@@ -1,0 +1,3 @@
+arrival:Cebu
+price:$34
+departure:Davao to 

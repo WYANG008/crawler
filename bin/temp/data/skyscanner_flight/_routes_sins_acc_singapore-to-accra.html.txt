@@ -1,0 +1,3 @@
+arrival:Accra
+price:$1,426
+departure:Singapore to 

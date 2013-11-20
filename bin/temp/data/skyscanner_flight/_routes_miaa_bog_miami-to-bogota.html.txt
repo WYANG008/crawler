@@ -1,0 +1,3 @@
+arrival:Bogota
+price:$531
+departure:Miami to 

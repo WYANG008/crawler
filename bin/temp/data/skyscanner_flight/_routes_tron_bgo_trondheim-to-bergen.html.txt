@@ -1,0 +1,2 @@
+arrival:Bergen
+departure:Trondheim to 

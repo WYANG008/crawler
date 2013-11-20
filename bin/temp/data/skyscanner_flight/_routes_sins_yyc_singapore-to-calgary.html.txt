@@ -1,0 +1,3 @@
+arrival:Calgary
+price:$1,542
+departure:Singapore to 

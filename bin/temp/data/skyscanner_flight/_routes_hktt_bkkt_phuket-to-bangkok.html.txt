@@ -1,0 +1,3 @@
+arrival:Bangkok
+price:$88
+departure:Phuket to 

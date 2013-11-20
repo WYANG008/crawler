@@ -1,0 +1,18 @@
+{
+    "websites" : [
+        {
+            "name" : "trip advisor",
+            "baseurl" : "http://www.tripadvisor.com.sg",
+            "start_url" : "http://www.tripadvisor.com.sg/Hotels-g294265-Singapore-Hotels.html",
+            "start_model" : "trip_mainpage",
+            "config" : "./tripadvisor.json" 
+        },   
+        {
+            "name" : "hungry go where", 
+            "baseurl" : "http://www.hungrygowhere.com",
+            "start_url" : "http://www.hungrygowhere.com/reviews/",
+            "start_model" : "hungrygowhere_review_list",
+            "config" : "./hungrygowhere.json"
+        }
+    ]
+}

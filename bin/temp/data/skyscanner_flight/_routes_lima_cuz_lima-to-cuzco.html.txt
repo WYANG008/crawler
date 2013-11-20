@@ -1,0 +1,3 @@
+arrival:Cuzco
+price:$142
+departure:Lima to 

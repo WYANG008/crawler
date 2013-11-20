@@ -1,0 +1,3 @@
+arrival:Bandung
+price:$127
+departure:Medan to 

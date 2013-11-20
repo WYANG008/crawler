@@ -1,0 +1,3 @@
+arrival:Bacolod
+price:$48
+departure:Manila to 

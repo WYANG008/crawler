@@ -1,0 +1,3 @@
+arrival:Durham
+price:$1,537
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Charlottesville
+price:$2,019
+departure:Singapore to 

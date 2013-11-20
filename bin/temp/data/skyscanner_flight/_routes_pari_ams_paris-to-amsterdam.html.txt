@@ -1,0 +1,3 @@
+arrival:Amsterdam
+price:$143
+departure:Paris to 

@@ -1,0 +1,3 @@
+arrival:Caticlan
+price:$81
+departure:Manila to 

@@ -1,0 +1,3 @@
+arrival:Cairo
+price:$682
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Amman
+price:$728
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Basel
+price:$1,043
+departure:Singapore to 

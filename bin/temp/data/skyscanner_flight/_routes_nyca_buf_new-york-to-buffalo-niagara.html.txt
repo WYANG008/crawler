@@ -1,0 +1,3 @@
+arrival:Buffalo
+price:$209
+departure:New York to 

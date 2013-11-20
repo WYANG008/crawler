@@ -1,0 +1,5 @@
+
+    [console_scripts]
+    start_celery = WebCrawler.scripts:start_celery
+    start_job = WebCrawler.scripts:start_job
+    

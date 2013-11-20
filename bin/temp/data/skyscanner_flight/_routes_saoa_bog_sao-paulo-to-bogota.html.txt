@@ -1,0 +1,3 @@
+arrival:Bogota
+price:$579
+departure:Sao Paulo to 

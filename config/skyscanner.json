@@ -1,0 +1,56 @@
+{
+    "webpages" : [
+        {
+            "model" : "skyscanner_citylist",
+            "baseurl" : "http://www.skyscanner.net",
+            "links" : [
+                {
+                    "selector" : "div#all_cities_container div.scrollbox tr td a",
+                    "model" : "skyscanner_flight"
+                },
+                {
+                    "selector" : "div#all_cities div.letter_nav div a",
+                    "model" : "skyscanner_citylist"
+                }
+            ],
+            "entity_selector" : "div.hellokjdfkdj",
+            "attributes" : []
+        }, 
+        {
+            "model" : "skyscanner_flight",
+            "baseurl" : "http://www.skyscanner.net",
+            "links" : [],
+            "entity_selector" : "div#blurb_text ul#cheapest_flights li",
+            "attributes" : [
+                {
+                    "name" : "id", 
+                    "type" : "str",
+                    "selector" : "a",
+                    "attr" : "href",
+                    "pk" : true
+                },
+                {
+                    "name" : "departure", 
+                    "type" : "str",
+                    "selector" : "a span.departure",
+                    "attr" : "text",
+                    "pk" : false 
+                },
+                {
+                    "name" : "arrival", 
+                    "type" : "str",
+                    "selector" : "a span.label",
+                    "attr" : "text",
+                    "pk" : false 
+                },
+                {
+                    "name" : "price", 
+                    "type" : "str",
+                    "selector" : "span#price",
+                    "attr" : "text",
+                    "pk" : false 
+                } 
+            ]
+        }
+    ]
+}

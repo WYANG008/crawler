@@ -1,0 +1,3 @@
+arrival:Aalesund Vigra
+price:$1,221
+departure:Singapore to 

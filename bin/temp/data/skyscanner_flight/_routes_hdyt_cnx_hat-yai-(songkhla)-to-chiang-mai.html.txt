@@ -1,0 +1,3 @@
+arrival:Chiang Mai
+price:$107
+departure:Hat Yai (Songkhla) to 

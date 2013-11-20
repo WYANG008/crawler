@@ -1,0 +1,15 @@
+#!/usr/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/wolfking/Project/crawler/eggs/supervisor-3.0-py2.7.egg',
+  '/home/wolfking/Project/crawler/eggs/meld3-0.6.10-py2.7.egg',
+  '/usr/lib/python2.7/dist-packages',
+  ]
+
+import sys; sys.argv[1:1] = ["-c","/home/wolfking/Project/crawler/parts/supervisor/supervisord.conf"]
+
+import supervisor.supervisorctl
+
+if __name__ == '__main__':
+    sys.exit(supervisor.supervisorctl.main(sys.argv[1:]))

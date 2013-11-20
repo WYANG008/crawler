@@ -1,0 +1,3 @@
+arrival:Chicago
+price:$246
+departure:Los Angeles to 

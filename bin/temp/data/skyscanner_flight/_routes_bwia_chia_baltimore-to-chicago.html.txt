@@ -1,0 +1,3 @@
+arrival:Chicago
+price:$319
+departure:Baltimore to 

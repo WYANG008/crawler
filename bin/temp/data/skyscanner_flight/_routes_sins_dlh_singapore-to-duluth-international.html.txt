@@ -1,0 +1,2 @@
+arrival:Duluth
+departure:Singapore to 

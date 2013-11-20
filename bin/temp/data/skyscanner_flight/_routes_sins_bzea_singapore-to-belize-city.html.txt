@@ -1,0 +1,3 @@
+arrival:Belize City
+price:$2,450
+departure:Singapore to 

@@ -1,0 +1,3 @@
+arrival:Cancun
+price:$2,025
+departure:Singapore to 
